@@ -19,3 +19,12 @@ Naturally, these aren't built by GitHub, or endorsed by them.
 Copyright (c) 2016 Tim Holman - http://tholman.com
 
 [The MIT License](https://github.com/tholman/github-corners/blob/master/license.md)
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
